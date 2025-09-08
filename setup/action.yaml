@@ -17,10 +17,10 @@ runs:
 
         # Use latest version if not specified
         if [ "${version}" == "" ]; then
-          version=$(curl -sIX HEAD https://github.com/defenseunicorns/lula/releases/latest | grep -i ^location: | grep -Eo 'v[0-9]+.[0-9]+.[0-9]+')
+          version=$(curl -sIX HEAD https://github.com/defenseunicorns-labs/lula1/releases/latest | grep -i ^location: | grep -Eo 'v[0-9]+.[0-9]+.[0-9]+')
         fi
 
-        release_path="https://github.com/defenseunicorns/lula/releases/download/${version}"
+        release_path="https://github.com/defenseunicorns-labs/lula1/releases/download/${version}"
 
         mkdir -p $target_dir
 

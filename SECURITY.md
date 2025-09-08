@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Lula, please report it to us by sending an email to [lula@defenseunicorns.com](mailto:lula@defenseunicorns.com?subject=Vulnerability) or directly through the [GitHub UI](https://github.com/defenseunicorns/lula/security/advisories/new).
+If you discover a security vulnerability in Lula, please report it to us by sending an email to [lula@defenseunicorns.com](mailto:lula@defenseunicorns.com?subject=Vulnerability) or directly through the [GitHub UI](https://github.com/defenseunicorns-labs/lula1/security/advisories/new).
 
 Please include the following details in your report:
 

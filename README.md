@@ -1,6 +1,6 @@
 # Lula GitHub Action
 
-Make [Lula](https://github.com/defenseunicorns/lula) available to your GitHub Actions workflows.
+Make [Lula](https://github.com/defenseunicorns-labs/lula1) available to your GitHub Actions workflows.
 
 ## Usage
 
