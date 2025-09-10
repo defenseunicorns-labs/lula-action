@@ -17,4 +17,4 @@ Relates to #
 ## Checklist before merging
 
 - [ ] Test, docs, adr added or updated as needed
-- [ ] [Contributor Guide Steps](https://github.com/defenseunicorns/lula-action/blob/main/CONTRIBUTING.md) followed
+- [ ] [Contributor Guide Steps](https://github.com/defenseunicorns-labs/lula-action/blob/main/CONTRIBUTING.md) followed
